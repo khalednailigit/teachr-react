@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito:300,400,700,900);
+
+* {
+  box-sizing: border-box;
+  font-kerning: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  }
+
+html {
+  font-family: "Nunito", sans-serif;;
+  font-size: 62.5%;
+  -webkit-text-size-adjust: 100%;
+  }
+
+body {
+  margin: 0;
+  padding: 0;
+  }
